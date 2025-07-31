@@ -1,2 +1,1 @@
-# si_project
-Systemy Inteligentne
+Project for the system intelligence subject, using NEAT 
